@@ -1,4 +1,4 @@
-uie# Learning Path for .NET 6 WPF Desktop Development (Prism MVVM)
+# Learning Path for .NET 6 WPF Desktop Development (Prism MVVM)
 
 This guide provides a comprehensive learning path tailored for transitioning into C# development, focusing on .NET 6 WPF desktop applications using the Prism MVVM framework.
 
