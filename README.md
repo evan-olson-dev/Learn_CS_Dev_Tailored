@@ -17,6 +17,6 @@ It covers fundamentals of C# and object-oriented programming, MVVM with Prism, V
 9.  [Working with NuGet Packages and Internal Libraries](./docs/09_nuget.md)
 10. [Putting It All Together – Capstone Project & Continued Learning](./docs/10_capstone.md)
 
-[Skip to Tutorials Summary](./docs/tutorials_summary.md)
+[Skip to Resources Summary](./docs/resources_summary.md)
 
 *This content is derived from the original `CSharp_OOP_MVVM_Guide.md` file.*
