@@ -14,7 +14,7 @@ This page provides a quick reference to all the guides, documentation, tutorials
 *   **(Paid)** *“C# in Depth” by Jon Skeet:* ([Recommended learning resources for C# and .NET in 2024. | by Dr Milan Milanović | Medium](https://medium.com/@techworldwithmilan/recommended-learning-resources-for-c-and-net-in-2024-0eec6ab923ca#:~:text=4))
 
 **Tutorials & Courses:**
-*   **(Free)** *C# 101 Video Series (Microsoft)*
+*   **(Free)** *C# for Beginners Video Series (Microsoft Learn):* [C# for Beginners Series](https://learn.microsoft.com/en-us/shows/csharp-for-beginners/)
 *   **(Free)** *Python To C# Tutorial (GameDev Academy):* [Python To C# Tutorial - Complete Guide](https://gamedevacademy.org/python-to-c-tutorial-complete-guide/)
 *   **(Paid)** *Pluralsight – C# Fundamentals:* (Pluralsight is subscription-based)
 *   **(Paid)** *Udemy C# Courses:* (e.g., by Mosh Hamedani or the [Complete C# Course – Beginner to Expert](https://www.udemy.com/course/complete-c-sharp-programming-course-beginner-to-expert/))
