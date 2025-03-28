@@ -10,7 +10,7 @@ This page provides a quick reference to all the guides, documentation, tutorials
 
 **Guides & Documentation:**
 *   **(Free)** *Microsoft Learn C# Fundamentals:* [Recommended learning resources for C# and .NET in 2024. | by Dr Milan Milanović | Medium](https://medium.com/@techworldwithmilan/recommended-learning-resources-for-c-and-net-in-2024-0eec6ab923ca#:~:text=1.%20Learn%20C), [**Object-Oriented Programming in C#** guide](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
-*   **(Free)** *The C# Yellow Book by Rob Miles:* *(Free download from csharpcourse.com)* ([Recommended learning resources for C# and .NET in 2024. | by Dr Milan Milanović | Medium](https://medium.com/@techworldwithmilan/recommended-learning-resources-for-c-and-net-in-2024-0eec6ab923ca#:~:text=%2A%20The%20C,the%20best%20book%20overall))
+*   **(Free)** *The C# Yellow Book by Rob Miles:* *(Free download from [Rob Miles' website](https://www.robmiles.com/c-yellow-book))* ([Recommended learning resources for C# and .NET in 2024. | by Dr Milan Milanović | Medium](https://medium.com/@techworldwithmilan/recommended-learning-resources-for-c-and-net-in-2024-0eec6ab923ca#:~:text=%2A%20The%20C,the%20best%20book%20overall))
 *   **(Paid)** *“C# in Depth” by Jon Skeet:* ([Recommended learning resources for C# and .NET in 2024. | by Dr Milan Milanović | Medium](https://medium.com/@techworldwithmilan/recommended-learning-resources-for-c-and-net-in-2024-0eec6ab923ca#:~:text=4))
 
 **Tutorials & Courses:**
@@ -37,7 +37,7 @@ This page provides a quick reference to all the guides, documentation, tutorials
 
 **Guides & Documentation:**
 *   **(Free)** *Microsoft Desktop Guide for WPF:* [Hello World app with WPF in C# - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-wpf?view=vs-2022#:~:text=WPF%20is%20part%20of%20,more%20information%2C%20see%20%206), Data Binding Overview
-*   **(Free)** *Syncfusion’s **WPF Succinctly** e-book:* (Requires free sign-up)
+*   **(Free)** *Syncfusion’s **[WPF Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/wpf-succinctly)** e-book:* (Requires free sign-up)
 *   **(Paid)** *“WPF 4.5 Unleashed” by Adam Nathan:* (Book)
 
 **Tutorials & Courses:**
@@ -51,7 +51,7 @@ This page provides a quick reference to all the guides, documentation, tutorials
 **Guides & Documentation:**
 *   **(Free)** *MVVM Basics – Microsoft Docs or Blogs:* ([Implementing the MVVM Pattern Using the Prism Library for WPF | Prism ](https://prismlibrary.github.io/docs/wpf/legacy/Implementing-MVVM.html#:~:text=Using%20the%20MVVM%20pattern%2C%20the,application%27s%20business%20logic%20and%20data)), ([Implementing the MVVM Pattern Using the Prism Library for WPF | Prism ](https://prismlibrary.github.io/docs/wpf/legacy/Implementing-MVVM.html#:~:text=The%20MVVM%20pattern%20is%20a,data%20templates%2C%20commands%2C%20and%20behaviors))
 *   **(Free)** *Prism Library MVVM Overview:* [Implementing the MVVM Pattern Using the Prism Library for WPF | Prism ](https://prismlibrary.github.io/docs/wpf/legacy/Implementing-MVVM.html#:~:text=Using%20the%20MVVM%20pattern%2C%20the,application%27s%20business%20logic%20and%20data)
-*   **(Free)** *MVVM Light Toolkit or Community Blogs:* (CodeProject, YouTube)
+*   **(Free)** *[MVVM Light Toolkit](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/) or Community Blogs:* (CodeProject, YouTube)
 *   **(Paid)** *“Developer’s Guide to Microsoft Prism” (Book/PDF):* (Older, Prism 4)
 *   **(Paid)** *“Advanced MVVM” by Josh Smith:* (PDF/Book)
 
@@ -78,7 +78,7 @@ This page provides a quick reference to all the guides, documentation, tutorials
 **Guides & Documentation:**
 *   **(Free)** *Visual Studio XAML Hot Reload Docs:* (Microsoft Docs, Channel 9, YouTube)
 *   **(Free)** *Blog: “Debugging WPF Bindings”:* (Medium, StackOverflow)
-*   **(Free)** *Snoop (Open Source Tool):* (GitHub)
+*   **(Free)** *[Snoop](https://github.com/snoopwpf/snoopwpf) (Open Source Tool):* (GitHub)
 *   **(Paid)** *ReSharper:* (JetBrains)
 *   **(Free/Paid)** *Community & Q&A:* (Stack Overflow, Prism GitHub Discussions)
 
@@ -90,13 +90,13 @@ This page provides a quick reference to all the guides, documentation, tutorials
 ## 7. Source Control with Git and GitLab
 
 **Guides & Documentation:**
-*   **(Free)** *Pro Git (Book):* (Chapters 1 & 2 online)
+*   **(Free)** *[Pro Git](https://git-scm.com/book/en/v2) (Book):* (Chapters 1 & 2 online)
 *   **(Free)** *GitLab Official Docs:* [Merge Requests](https://docs.gitlab.com/user/project/merge_requests/#:~:text=Merge%20requests%20provide%20a%20central,when%20the%20merge%20request%20merges), [Issues](https://docs.gitlab.com/user/project/issues/managing_issues/#:~:text=GitLab%20issues%20help%20you%20track,You%20can%20manage%20issues%20to)
-*   **(Free)** *Atlassian Git Tutorials:* (Branching, merging, conflicts)
+*   **(Free)** *[Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials):* (Branching, merging, conflicts)
 *   **(Free)** *YouTube – “GitLab Flow vs GitFlow”:* [What is GitLab Flow?](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/#:~:text=What%20is%20GitLab%20Flow%3F%20GitLab,feature%20branches%20with%20issue%20tracking)
 
 **Tutorials & Courses:**
-*   **(Free)** *Learn Git Branching (Interactive):* (Web tool)
+*   **(Free)** *[Learn Git Branching](https://learngitbranching.js.org/) (Interactive):* (Web tool)
 *   **(Paid)** *Udemy “Git Complete” or Coursera version control courses:* (e.g., “Git Complete: The Definitive Guide”)
 
 ---
@@ -106,7 +106,7 @@ This page provides a quick reference to all the guides, documentation, tutorials
 **Guides & Documentation:**
 *   **(Free)** *NUnit Documentation:* (docs.nunit.org) - Assertions, Constraint Model
 *   **(Free)** *Blog/Article – “NUnit Testing Tutorial”:* ([Getting Started With .NET Unit Testing Using NUnit - Infragistics](https://www.infragistics.com/blogs/net-unit-testing-using-nunit/#:~:text=Getting%20Started%20With%20,project%20%C2%B7%20Creating%20Test)), ([Getting Started With .NET Unit Testing Using NUnit](https://www.infragistics.com/blogs/net-unit-testing-using-nunit/#:~:text=Automated%20unit%20tests%20while%20developing,code%20for%20different%20input%20sets))
-*   **(Free)** *Moq library (for mocking):* (GitHub)
+*   **(Free)** *[Moq library](https://github.com/moq/moq) (for mocking):* (GitHub)
 
 **Tutorials & Courses:**
 *   **(Free)** *Microsoft Learn: Unit testing with NUnit:* [Unit testing C# with NUnit and .NET Core - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit#:~:text=This%20tutorial%20takes%20you%20through,instructions%2C%20see%20Samples%20and%20Tutorials)
