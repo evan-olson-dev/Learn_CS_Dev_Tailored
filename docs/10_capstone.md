@@ -1,0 +1,23 @@
+[<- Back to Main README](../README.md)
+
+## 10. Putting It All Together – Capstone Project & Continued Learning
+
+To reinforce everything, it’s valuable to undertake a **mini-project** that ties together C#, WPF, MVVM/Prism, Git, testing, and NuGet usage. This can be a scaled-down version of what your real project might be. Since your domain involves hardware sensors, you could simulate that:
+
+**Capstone Idea:** *“Environmental Monitor” Desktop App* – Imagine an app that monitors temperature and humidity from sensors:
+- **Description:** The app has a main window (shell) with two regions: one for navigation (a menu or buttons to switch between views) and one for content. There are two views: **DashboardView** (displays current readings and perhaps graphs/trends) and **SettingsView** (to configure thresholds, etc.). The data comes from a sensor service that in real life would interface with hardware, but for this project, you’ll simulate it (e.g., a service that generates random data or reads from a file).
+- **Technical Implementation:** Use Prism to set up the shell and navigation. Have a `SensorModule` that registers `ISensorService` and provides `DashboardView` and `SettingsView`. The `SensorService` simulation can be a simple class that generates data periodically (maybe use a `Timer` or just generate on request). The DashboardViewModel subscribes to updates (via an event or polling) and updates properties (with INotifyPropertyChanged) that the DashboardView binds to (like `CurrentTemperature`). The SettingsViewModel could allow the user to set a warning threshold which the DashboardViewModel uses to, say, change color if temp exceeds threshold.
+- Use **DelegateCommand** for any button actions (e.g., a refresh button).
+- Integrate an **internal NuGet**: you could package your sensor service interface as a NuGet (just for simulation, or use any existing internal-like NuGet such as a fictitious “HardwareSDK” with dummy methods). Or use a real public NuGet like LiveCharts for plotting (to practice adding a NuGet).
+- Write a few **unit tests**: e.g., test that the SensorService returns values in expected range, test that DashboardViewModel raises an alert flag when threshold is exceeded, etc., using NUnit.
+- Put the project under **Git source control** (even locally or on a private GitLab repo). Practice the full workflow: create an issue “Implement threshold alert”, branch, commit changes, merge request, etc., even if you are the only one working – it reinforces the habit.
+
+This capstone will force you to apply each skill in concert, which is exactly what working on the real project will be like. It’s okay if it’s not perfect or fully complete; the goal is to identify any weak spots where you need further clarification.
+
+**Beyond the Plan – Continued Learning:** Software development is an ever-learning field. Even after going through all the above, you will continue to encounter new concepts or deeper levels of understanding:
+- **Advanced C# and .NET:** Explore more advanced C# features as needed (async/await for concurrency – perhaps your sensor reading is on a background thread? –, `using` statements and IDisposable for resource management, etc.). “C# in Depth” will be a great companion as you deepen knowledge.
+- **Design Patterns:** MVVM is one pattern; you might also benefit from understanding others like Dependency Injection (which you’re using via Prism), Repository pattern (if dealing with data storage), etc. As a PhD, you might appreciate the formalism of patterns and principles (SOLID principles are widely observed in C# architectures).
+- **Community and Documentation:** Keep the official docs handy (Microsoft’s WPF and .NET docs, Prism docs, NUnit docs). Stack Overflow is your friend for specific “how do I…?” questions. Microsoft’s Q&A forums and the .NET Foundation Discord are also places to ask questions if stuck.
+- **Team-Specific Practices:** Finally, adapt to your team’s specific conventions. They might have a coding style guide, specific branch naming scheme, or custom tools (maybe a code generator, or an internal analyzer). Pay attention during code reviews to align with their best practices.
+
+By following this learning guide and utilizing the resources at each step, you will build a strong foundation in modern .NET desktop development. The combination of theoretical understanding and hands-on practice will prepare you to confidently contribute to your WPF Prism application. Remember to take it step by step, and don’t hesitate to revisit topics as needed – each layer (C#, then WPF, then MVVM, then Prism, etc.) will make more sense as you apply it in context. Good luck with your journey, and enjoy the process of leveling up your development skills!
