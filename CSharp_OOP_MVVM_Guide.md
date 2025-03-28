@@ -1,8 +1,3 @@
-Perfect, thank you for all the detail.
-I'll put together a comprehensive learning guide and resource list tailored to a PhD-level academic transitioning into C# development, focusing on .NET 6 WPF desktop applications using the Prism MVVM framework. It will include fundamentals of C# and object-oriented programming, MVVM with Prism, use of Visual Studio, Git/GitLab workflows, unit testing with NUnit, and how to interact with and build upon internal libraries and drivers.
-
-I’ll include both free and high-quality paid resources (clearly marked), and structure the guide for hands-on and progressive learning. I’ll let you know when it’s ready to review.
-
 # Learning Path for .NET 6 WPF Desktop Development (Prism MVVM)
 
 ## 1. C# and Object-Oriented Programming Fundamentals
